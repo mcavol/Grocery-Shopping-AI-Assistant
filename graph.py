@@ -1,8 +1,3 @@
-"""
-LangGraph construction for the grocery shopping assistant.
-NO HARDCODED FALLBACKS - Requires proper Mistral API connection
-"""
-
 from typing import Dict, Any
 from langgraph.graph import StateGraph, END
 from langchain.llms.base import BaseLLM

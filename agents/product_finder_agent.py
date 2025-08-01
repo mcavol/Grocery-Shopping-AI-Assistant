@@ -1,6 +1,5 @@
 """
 Product Finder Agent - Maps ingredients to store products with prices.
-NO HARDCODED PRODUCTS - Only uses Mistral API
 """
 
 from typing import Dict, Any, List

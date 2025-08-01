@@ -1,8 +1,3 @@
-"""
-Main Streamlit application for the Grocery Shopping AI Assistant.
-NO HARDCODING - Requires proper Mistral API connection
-"""
-
 import streamlit as st
 import os
 import logging

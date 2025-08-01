@@ -1,6 +1,5 @@
 """
 Recipe Agent - Finds suitable recipes and extracts ingredients.
-NO HARDCODED RECIPES - Only uses Mistral API
 """
 
 from typing import Dict, Any, List, Union

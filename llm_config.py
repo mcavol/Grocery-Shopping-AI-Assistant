@@ -1,8 +1,3 @@
-"""
-LLM configuration for Mistral API integration - STRICT API CONNECTION ONLY
-NO DEMO MODE - NO HARDCODED RESPONSES
-"""
-
 import os
 import time
 from typing import Optional, List

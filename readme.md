@@ -1,5 +1,7 @@
 # 🛒 Grocery Shopping AI Assistant
 
+Demo video of the agent is here: https://drive.google.com/file/d/1YTYTRx-57XdJlBJSq_SIdb1LKL9qk5EK
+
 A sophisticated multi-agent system that helps users create shopping lists and place grocery orders using LangGraph, LangChain, and Streamlit. The system utilizes a Supervisor Agent pattern with specialized agents for different tasks.
 
 ## 🏗️ Architecture

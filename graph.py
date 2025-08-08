@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 
 class GroceryShoppingGraph:
-    """LangGraph implementation for grocery shopping workflow - NO HARDCODING."""
+    """LangGraph implementation for grocery shopping workflow"""
     
     def __init__(self, llm: BaseLLM):
         self.llm = llm
